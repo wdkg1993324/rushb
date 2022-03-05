@@ -4,3 +4,5 @@ target/
 *.log
 *.temp
 *.xml
+complier.xml
+misc.xml
